@@ -1,5 +1,5 @@
 # JS-Challenges
 
-###LIVE DEMO
+LIVE DEMO
 
 [Click here for Live Demo 🚀🚀](https://mohit-kek.github.io/JS-Challenges/)
